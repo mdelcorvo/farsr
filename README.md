@@ -1,4 +1,4 @@
-https://travis-ci.org/mdelcorvo/farsr.svg?branch=master
+[![Travis-CI Build Status](https://travis-ci.org/mdelcorvo/farsr.svg?branch=master)](https://travis-ci.org/mdelcorvo/farsr)
 
 # farsr
 
