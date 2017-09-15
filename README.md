@@ -1,8 +1,10 @@
-# rfaRs
+https://travis-ci.org/mdelcorvo/farsr.svg?branch=master
+
+# farsr
 
 # Overview
 
-rfars is an [R](https://www.r-project.org/) package with a set of functions that makes easier to analyze the data from the US National Highway Traffic Safety Administration's [Fatality Analysis Reporting System (FARS)](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars).
+farsr is an [R](https://www.r-project.org/) package with a set of functions that makes easier to analyze the data from the US National Highway Traffic Safety Administration's [Fatality Analysis Reporting System (FARS)](https://www.nhtsa.gov/research-data/fatality-analysis-reporting-system-fars).
 
 # Purpose
 
