@@ -1,0 +1,23 @@
+Package: farsr
+Type: Package
+Title: Package to visualize FARS data
+Version: 0.1.0
+Author: Marcello Del Corvo
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports:
+    dplyr,
+    graphics,
+    maps,
+    readr,
+    tidyr
+Suggests:
+    knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
+RoxygenNote: 5.0.1
